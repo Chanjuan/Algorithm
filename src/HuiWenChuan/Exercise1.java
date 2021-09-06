@@ -1,8 +1,8 @@
 package HuiWenChuan;
-
+//判断字符串是否为回文串
 public class Exercise1 {
    public static void main(String[] args) {
-      String input="abb a";  //判断是否为回文串
+      String input="abb ca";  //判断是否为回文串
       System.out.println(isPalindrome(input,0, input.length()-1));
 
    }
