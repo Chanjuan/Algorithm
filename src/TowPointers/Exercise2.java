@@ -1,4 +1,4 @@
-package HuiWenChuan;
+package TowPointers;
 //如果可以删除一个字符，判断是否为回文串
 public class Exercise2 {
    class Pair{

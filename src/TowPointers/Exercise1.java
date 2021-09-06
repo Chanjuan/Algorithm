@@ -1,4 +1,4 @@
-package HuiWenChuan;
+package TowPointers;
 //判断字符串是否为回文串
 public class Exercise1 {
    public static void main(String[] args) {
